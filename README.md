@@ -3,3 +3,5 @@
 # AdventureHouseBobby1.py is the modified code w/ problem 10.1
 # AdventureHouseJess1.py is the modified code w/ 10.1 & 10.2
 # AdventureHouseTrey1.py is the modified code w/ 10.1, 10.2, 10.5
+# AdventureHouseJoey1.py is the modified code w/ 10.1, 10.2, 10.3, 10.5
+# AdventureHouseJess2.py is the modified code w/ 10.1, 10.2, 10.3, 10.5, 10.7
